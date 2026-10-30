@@ -1,5 +1,5 @@
 @echo off
-rem  Build Ssingle-invader demo for the ZX81 with z88dk
+rem  Build Single-invader demo for the ZX81 with z88dk
 rem  (z88dk must be installed and its bin folder on your PATH)
 
 set OPTS=+zx81 -subtype=wrx -clib=wrx -O2 -Cz--collapsed
